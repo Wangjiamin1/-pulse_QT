@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>images/about.png</file>
+        <file>images/application-exit.png</file>
+        <file>images/can_reset.png</file>
+        <file>images/clear_can.png</file>
+        <file>images/clear_err.png</file>
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/file.png</file>
+        <file>images/fog_reset.png</file>
+        <file>images/main.png</file>
+        <file>images/report.png</file>
+        <file>images/settings.png</file>
+        <file>images/start.png</file>
+        <file>images/stop.png</file>
+    </qresource>
+    <qresource prefix="/ico">
+        <file>ico/checkbox_checked.png</file>
+        <file>ico/checkbox_unchecked.png</file>
+        <file>ico/radiobutton-checked-md.png</file>
+        <file>ico/radiobutton-unchecked-md.png</file>
+    </qresource>
+</RCC>
